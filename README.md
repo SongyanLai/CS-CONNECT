@@ -1,3 +1,50 @@
+# CSConnect - Social Platform for Computer Science Students
+
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+
+**CSConnect** is a social networking platform designed exclusively for Computer Science students to connect, collaborate, and share knowledge. Built with modern web technologies, this project emphasizes real-time interaction, intuitive design, and seamless user experience.
+
+---
+
+## ✨ Features
+
+- **Blog System**:
+  - Create posts with text, tags, images, and videos.
+  - Engage with real-time comments and likes.
+  - Filter posts by tags (e.g., "React", "Node.js").
+- **Announcements**:
+  - Lecturers can post updates, deadlines, and events.
+  - Students filter announcements by date or topic.
+- **User Profiles**:
+  - View dynamic profiles with secure authentication.
+  - Responsive design for all devices.
+- **Real-Time Updates**:
+  - Powered by Firebase Firestore for instant data synchronization.
+
+---
+
+## 🛠️ Tech Stack
+
+**Frontend**:
+
+- React.js
+- Tailwind CSS
+- React Router
+
+**Backend**:
+
+- Firebase (Firestore, Authentication)
+- Node.js
+
+**Tools & Methodologies**:
+
+- Git/GitLab (version control)
+- Microsoft Teams (collaboration)
+- Miro (task management & story mapping)
+- Agile/SCRUM (iterative development)
+
+---
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
